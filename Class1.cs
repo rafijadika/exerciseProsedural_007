@@ -20,6 +20,7 @@ int main()
         cout << "diterima" << endl;
     }
 
+
     //joko nilai 65 rata rata
     else if ((nilai >= 70) && (nilai <= 100))
     {
